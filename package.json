@@ -1,0 +1,15 @@
+{
+  "name": "svg-graph-generator",
+  "version": "1.0.0",
+  "description": "Simple library to generate SVG Graphs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "graph"
+  ],
+  "author": "Felix Bole <felix.bole@yahoo.fr>",
+  "license": "ISC"
+}
